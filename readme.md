@@ -1,10 +1,10 @@
-### CONSTRUÇÃO DE UMA APLICAÇÃO PARA ACESSAR WEBCAM DO PC
+# CONSTRUÇÃO DE UMA APLICAÇÃO PARA ACESSAR WEBCAM DO PC
 ## RODAR O PROJETO
-# Instalar dependencias
+### Instalar dependencias
 `npm install`
 
-# Fazer o BUILD
+### Fazer o BUILD
 `npm run build`
 
-# Startar o projeto local
+### Startar o projeto local
 `npm start`
